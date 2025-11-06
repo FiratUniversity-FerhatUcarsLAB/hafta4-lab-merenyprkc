@@ -2,7 +2,10 @@
  * AD SOYAD: MUHAMMED EREN YAPRAKCI
  * ÖĞRENCİ NO: 250542006
  * TARİH: 06.11.2025
- * AÇIKLAMA GEOMETRİK HESAPLAYICI
+ * AÇIKLAMA: 2- Geometrik Hesaplayıcı
+ * 
+ * Bu program, kullanıcıdan bir dairenin yarıçapını alır ve
+ * dairenin alanını, çevresini, çapını, kürenin hacmini ve yüzey alanını hesaplar.
  */
 
 import java.util.Scanner;
